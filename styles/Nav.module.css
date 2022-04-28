@@ -1,0 +1,10 @@
+.nav {
+    margin: 0 auto;
+    font-size: 15px;
+    width: 60%;
+    border: 1px solid black;
+}
+.li {
+    display: inline;
+    margin-left: 40px;
+}
